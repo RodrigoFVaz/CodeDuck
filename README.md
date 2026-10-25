@@ -11,15 +11,19 @@ O objetivo é demonstrar competências em:
 
 ---
 
+## 🐥 O que é o CodeDuck?
+
+---
+
 ## 🗄️ Modelo Relacional
 
 O sistema inclui as seguintes entidades:
 
-- **tb_Users** — gestão de utilizadores
-- **tb_Login** — autenticação e segurança
-- **tb_Site** — sites associados ao utilizador
-- **tb_MetodoPagamento** — métodos de pagamento disponíveis
-- **tb_Contratos** — contratos entre utilizadores e serviços
+- **tb_Users** — Gestão de utilizadores
+- **tb_Login** — Autenticação e segurança
+- **tb_Site** — Sites associados ao utilizador
+- **tb_MetodoPagamento** — Métodos de pagamento disponíveis
+- **tb_Contratos** — Contratos entre utilizadores e serviços
 
 ---
 
@@ -35,7 +39,7 @@ O ficheiro `schema.sql` contém:
 
 ---
 
-## 🎓 colegas de trabalho 
+## 🎓 Colegas de Trabalho 
 - <a href="https://www.github.com/RodrigoFVaz">Rodrigo Vaz</a>
 - Tiago Rodrigues
 - <a href="https://www.github.com/CadelDavid">David Cadel</a>
