@@ -43,7 +43,7 @@ O ficheiro `schema.sql` contém:
 
 ## 🎓 Colegas de Trabalho 
 - <a href="https://www.github.com/RodrigoFVaz">Rodrigo Vaz</a>
-- Tiago Rodrigues
+- <a href="https://github.com/TiagoRodriguesSec">Tiago Rodrigues</a>
 - <a href="https://www.github.com/CadelDavid">David Cadel</a>
 
 ---
