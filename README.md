@@ -13,6 +13,8 @@ O objetivo é demonstrar competências em:
 
 ## 🐥 O que é o CodeDuck?
 
+CodeDuck é um projeto académico, cujo, a ideia era criar um servidor de gestão de Websites, ou seja, a "CodeDuck" iria guardar websites no seu servidor e cuidar destes websites a nível de cibersegurança. Onde um cliente poderia ter mais do que um site e por isso nas tabelas existe um interligação "User <-> Site".
+
 ---
 
 ## 🗄️ Modelo Relacional
